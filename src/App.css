@@ -1,0 +1,25 @@
+.cardImgBG{
+    background-image: url(./assets/images/more/1.png);
+    background-repeat: no-repeat;    
+    background-size: cover;
+}
+
+.heroBanner{
+    background-image: url(./assets/Banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.footerImg{
+    background-image: url(./assets/Footer.png);
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+
+.copyRightImg{
+    background-image: url(./assets/Header.png);
+}
+
